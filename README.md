@@ -1,6 +1,10 @@
 # Hi there, I'm Diego 👋
 
-M.Sc. student in **Automation Engineering** at Politecnico di Bari, specializing in the **Industrial Robotics** curriculum. My focus is on the intersection of physical hardware, advanced control theory, and embedded systems—bridging dynamic modeling, electric drives, and deterministic real-time software.
+B.Sc. graduate in **Computer and Automation Engineering**, currently pursuing an M.Sc. in **Automation Engineering** (*Industrial Robotics* curriculum) at Politecnico di Bari.
+
+During my Bachelor's studies, I built a solid background in control systems engineering, software development (Python, Java, MATLAB), and Linux environments. I applied these skills hands-on in my Bachelor's thesis project, developing a real-time visual tracking system on an embedded target (NVIDIA Jetson) using ROS 2 nodes, Computer Vision algorithms (OpenCV / ArUco markers), and closed-loop PID control with anti-windup clamping.
+
+Currently, I am expanding my expertise in embedded control architectures, industrial robotics, electric drives, and dynamical modeling, with the goal of bridging low-level hardware and real-time software integration for real-world automation applications.
 
 ---
 
