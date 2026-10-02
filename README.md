@@ -8,4 +8,4 @@ Currently, I am expanding my expertise in embedded control architectures, indust
 
 ---
 
-📫 **Connect with me:** https://www.linkedin.com/in/diego-de-bellis-8b5276234 | diegodeb04@gmail.com
+📫 **Connect with me:** www.linkedin.com/in/diego-de-bellis-8b5276234 | diegodeb04@gmail.com
